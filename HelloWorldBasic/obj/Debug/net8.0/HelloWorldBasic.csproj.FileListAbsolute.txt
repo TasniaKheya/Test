@@ -13,3 +13,18 @@ C:\Users\tkheya871\source\repos\HelloWorldBasic\obj\Debug\net8.0\refint\HelloWor
 C:\Users\tkheya871\source\repos\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.pdb
 C:\Users\tkheya871\source\repos\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.genruntimeconfig.cache
 C:\Users\tkheya871\source\repos\HelloWorldBasic\obj\Debug\net8.0\ref\HelloWorldBasic.dll
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\bin\Debug\net8.0\HelloWorldBasic.exe
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\bin\Debug\net8.0\HelloWorldBasic.deps.json
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\bin\Debug\net8.0\HelloWorldBasic.runtimeconfig.json
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\bin\Debug\net8.0\HelloWorldBasic.dll
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\bin\Debug\net8.0\HelloWorldBasic.pdb
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.AssemblyInfoInputs.cache
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.AssemblyInfo.cs
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.csproj.CoreCompileInputs.cache
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.sourcelink.json
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.dll
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\refint\HelloWorldBasic.dll
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.pdb
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\HelloWorldBasic.genruntimeconfig.cache
+C:\Users\tkheya871\Desktop\New folder\HelloWorldBasic\obj\Debug\net8.0\ref\HelloWorldBasic.dll
