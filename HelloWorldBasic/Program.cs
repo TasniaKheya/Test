@@ -6,7 +6,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+//<<<<<<< HEAD
             Console.WriteLine("Hello1 World");
+//=======
+            //Console.WriteLine("Hello2 World");
+//>>>>>>> 6ef54883e90ab66f5d7adc3e5a9ebf8be73a37f6
             Console.WriteLine("Github Changes Again");
             Console.WriteLine("Github Changes");
 
