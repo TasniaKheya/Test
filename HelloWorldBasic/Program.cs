@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows;
 
 namespace HelloWorld
 {
@@ -18,6 +19,19 @@ namespace HelloWorld
             Console.WriteLine("Local Changes");
             Console.WriteLine("Local Changes2");
 
+
+            //**************************************
+            int a = 0;
+
+            if (a == 1)
+            {
+                Console.WriteLine("HELLO1");
+            }
+            else
+            {
+                Console.WriteLine("HELLO2");
+            }
+            //**************************************
         }
     }
 }
